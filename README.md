@@ -1,7 +1,7 @@
 Bitcoin Fresh Core integration/staging repository
 =================================================
 
-Bitcoin Fresh (BITF) is a sustainable cryptocurrency with the vision to help those who do not have access to clean water. It is a decentralized, peer-to-peer transactional currency that is inspired by Bitcoin Green, which was designed to offer a solution to the problem posed by the exponential increase in energy consumed by Bitcoin and other proof-of-work currencies. Proof-of-work mining is environmentally unsustainable due to the electricity used by high-powered mining hardware. Bitcoin Green utilizes an energy efficient proof-of-stake algorithm, can be mined on any computer, and will never require specialized mining equipment. By harnessing their sustainable technology Bitcoin Fresh is able to help those in need while also having a lighter load on energy demands.
+Bitcoin Fresh (BITF) is a sustainable cryptocurrency with the vision to help those who do not have access to clean water. It is a decentralized, peer-to-peer transactional currency that is inspired by Bitcoin Green, which was designed to offer a solution to the problem posed by the exponential increase in energy consumed by Bitcoin and other proof-of-work currencies. Proof-of-work mining is environmentally unsustainable due to the electricity used by high-powered mining hardware. By harnessing their sustainable technology Bitcoin Fresh is able to help those in need while also allowing the coin to be mined by any computer.
 
 - Fast transactions featuring guaranteed zero confirmation transactions, we call it _SwiftTX_.
 - Decentralized blockchain voting providing for consensus based advancement of the current Masternode
